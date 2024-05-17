@@ -6,7 +6,6 @@ import { buildConfig } from 'payload/config'
 // import sharp from 'sharp'
 import { fileURLToPath } from 'url'
 
-
 import { Users } from './collections/Users'
 
 const filename = fileURLToPath(import.meta.url)
